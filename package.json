@@ -1,0 +1,15 @@
+{
+  "name": "gradient-syntax-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Animated gradient syntax highlighting",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ian-kent/atom-gradient-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
